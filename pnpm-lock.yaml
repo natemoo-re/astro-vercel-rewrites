@@ -1,11 +1,11 @@
 lockfileVersion: 5.4
 
 specifiers:
-  '@astrojs/vercel': 0.0.0-vercel-json-20230313200730
+  '@astrojs/vercel': 0.0.0-vercel-json-20230313201834
   astro: ^2.0.18
 
 dependencies:
-  '@astrojs/vercel': 0.0.0-vercel-json-20230313200730_astro@2.1.2
+  '@astrojs/vercel': 0.0.0-vercel-json-20230313201834_astro@2.1.2
   astro: 2.1.2
 
 packages:
@@ -91,10 +91,10 @@ packages:
       - supports-color
     dev: false
 
-  /@astrojs/vercel/0.0.0-vercel-json-20230313200730_astro@2.1.2:
-    resolution: {integrity: sha512-DXzxPBZj3X305BoqNP9eUa+4vszsn5RRE9RqB5Ft/hgSyXpT6iB6mJaeDzg2toeSrhezyaBo7d4PkgEGoUMoCg==}
+  /@astrojs/vercel/0.0.0-vercel-json-20230313201834_astro@2.1.2:
+    resolution: {integrity: sha512-o0osF74tB+5eCex6X4TkDuKAR8PxyCIKRWpb1Rl/tamXpgLdeixvJvKiKGRrHU2qI3K2l9qFh6ebxzLDZgecMw==}
     peerDependencies:
-      astro: 0.0.0-vercel-json-20230313200730
+      astro: 0.0.0-vercel-json-20230313201834
     dependencies:
       '@astrojs/webapi': 2.1.0
       '@vercel/analytics': 0.1.11
