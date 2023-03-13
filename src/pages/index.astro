@@ -1,3 +1,7 @@
-<div>
-	You shouldn't be seeing me :(
-</div>
+---
+const headers = Object.fromEntries(Astro.request.headers.entries());
+---
+
+<div>You shouldn't be seeing me :(</div>
+
+<pre set:html={JSON.stringify(headers, null, 2)} />
