@@ -10,7 +10,7 @@
     "astro": "astro"
   },
   "dependencies": {
-    "@astrojs/vercel": "0.0.0-vercel-json-20230313193421",
+    "@astrojs/vercel": "0.0.0-vercel-json-20230313194145",
     "astro": "^2.0.18"
   }
 }
