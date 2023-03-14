@@ -3,6 +3,10 @@
     {
       "source": "/",
       "destination": "/page2"
+    },
+    {
+      "source": "/foo",
+      "destination": "/page2"
     }
   ]
 }
