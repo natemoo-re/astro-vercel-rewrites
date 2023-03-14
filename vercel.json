@@ -1,11 +1,13 @@
 {
+  "redirects": [
+    {
+      "source": "/foo",
+      "destination": "/page2"
+    }
+  ],
   "rewrites": [
     {
       "source": "/",
-      "destination": "/page2"
-    },
-    {
-      "source": "/foo",
       "destination": "/page2"
     }
   ]
