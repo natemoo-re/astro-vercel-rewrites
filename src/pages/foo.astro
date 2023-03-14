@@ -1,0 +1,7 @@
+---
+const headers = Object.fromEntries(Astro.request.headers.entries());
+---
+
+<div>You shouldn't be seeing me (/foo) :(</div>
+
+<pre set:html={JSON.stringify(headers, null, 2)} />

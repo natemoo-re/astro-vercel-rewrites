@@ -1,11 +1,9 @@
 {
-  "redirects": [
+  "rewrites": [
     {
       "source": "/foo",
       "destination": "/page2"
-    }
-  ],
-  "rewrites": [
+    },
     {
       "source": "/",
       "destination": "/page2"
